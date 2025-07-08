@@ -8,11 +8,11 @@ Spending the next year at **Komvux** to prepare for university.
 
 # Current 
 Currently im just tinkering on personal projects, finding out what i like and just learning new stuff each week. 
-Im learning C++ and improving my python
+At this moment I am learning C++ and improving my python.
 
 # Technologies and background
-I have a background as System Engineering at UBS.
-I am familiar with Python, Linux, Docker, K8s and SQL.
+- I have a background as System Engineering at UBS.
+- I am familiar with Python, Linux, Docker, K8s and SQL.
 
 > i use arch btw
 
