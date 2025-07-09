@@ -1,30 +1,22 @@
-# Hello, I'm Isak
+# About
+- 20 years old
+- 4 years of system engineering background
+- Based in sweden
 
-I'm a backend-first developer who loves systems, logic, and building things.  
-I’m especially drawn to open source, low-level infrastructure, real-time systems, and clean logic.
+# Interests
+- Systems and architecture
+- Logic and backend
+- Scripting and automation
 
-Currently learning, tinkering, and improving — one commit at a time.  
-Spending the next year at **Komvux** to prepare for university.
+# Technologies
+- Python
+- Bash
+- Linux
+- Docker
+- K8s
 
----
+# Current
+Studying in sweden. Doing some personal side projects.
+Learning Rust and improving my Python skills
 
-## Current
-
-I'm currently exploring personal projects, figuring out what I truly enjoy, and picking up new skills each week.  
-Right now, I'm learning **C++** and sharpening my **Python**.
-
----
-
-## Technologies & Background
-
-- Background in **System Engineering** at **UBS**
-- Comfortable with:  
-  - **Python**
-  - **Linux**
-  - **Docker**
-  - **Kubernetes (K8s)**
-  - **SQL**
-
----
-
-> i use arch btw 
+`i use arch btw`
