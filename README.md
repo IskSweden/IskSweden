@@ -5,5 +5,5 @@
 
 # Current
 Studying in sweden. Doing some personal side projects.
-Learning Rust and improving my Python skills
+Always learning new things.
 
